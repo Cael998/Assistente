@@ -1,0 +1,6 @@
+nome = input("Boa noite, me chamo VS code. como posso te chamar?")
+print("Prazer em te conhecer,",nome,". Espero que nos demos bem trabalhando juntos!")
+idade = input("E quantos você tem?")
+print(idade, "? que legal. Você está na idade em que muitos decidem com o que querem trabalhar. O que nos leva à nossa próxima pergunta...")
+profissão = input("qual é a sua profissão dos sonhos?")
+print("Òtimo",nome,". Saber que você quer trabalhar com",profissão,"já ajuda bastante a conseguir estudar para alcançar esse objetivo! vamos trabalhar para isso.")
